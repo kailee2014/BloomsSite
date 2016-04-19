@@ -1,1 +1,12 @@
-/target/
+.settings
+.externalToolBuilders
+target
+.classpath
+.project
+classes
+.gitignore
+bin
+lib
+.springBeans
+catalina.base_IS_UNDEFINED
+logs
