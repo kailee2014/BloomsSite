@@ -6,12 +6,16 @@ package com.blooms.website.framework;
  */
 public class FrameworkTest {
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+    public static int test(String num) {
+        return Integer.parseInt(num);
+    }
 
-	}
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+
+    }
 
 }
