@@ -3,8 +3,8 @@ target/
 
 # eclipse ignore
 .settings/
-.project
-.classpath
+# .project
+# .classpath
 classes/
 
 # temp ignore
